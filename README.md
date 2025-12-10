@@ -1,2 +1,2 @@
-# proyectoVeda
-Ejercicio 5, analisis exploratorio de datos de dataset
+# Proyecto V, Analisis Exploratorio de Datos
+Ejercicio 5, analisis exploratorio de datos, dataset
