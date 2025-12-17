@@ -1,6 +1,8 @@
 # Proyecto V, Analisis Exploratorio de Datos
 Ejercicio 5, analisis exploratorio de datos, dataset
 
+GOOGLE COLAB LINK ----> https://colab.research.google.com/drive/1yHTxTxoxNyoG_vwsp8Ulev1900YDNQCe
+
 **¿Qué es el EDA y cuál es su propósito en el análisis de datos?**
 El EDA es un análisis de datos exploratorio, en el cual se analizan y trabajan los siguientes datos: Análisis descriptivo, ajuste de tipos de variable, deteccion y tratamiento de variables faltantes, identificacion de datos atipicos, correlacion de variables.
 
